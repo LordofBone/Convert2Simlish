@@ -1,3 +1,9 @@
+### What this does
+
+This is a project that integrates with ChatGPT to convert text to Simlish (the language developed for the game 'The Sims'.
+
+You can read more about it [here](https://www.hackster.io/314reactor/simlish-o-matic-134a8e).
+
 ### Usage
 
 Check out this project into your code:
