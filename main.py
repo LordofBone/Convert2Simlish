@@ -26,4 +26,4 @@ def main(text_input):
 if __name__ == "__main__":
     while True:
         text_input = input("Enter text to translate to Simlish: ")
-        print(main(text_input))
+        print(f"Simlish translation: {main(text_input)}")
