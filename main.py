@@ -15,8 +15,8 @@ def main(text_input):
     Main function for running translations.
     :return:
     """
-    integrate_chatgpt_test.set_context("you are a sim from the game, 'the sims' - whatever i type in, "
-                                       "please translate to simlish")
+    integrate_chatgpt_test.set_context("you are a sim from the video game, 'the sims' - whatever i type in, please "
+                                       "translate it to the simlish language")
 
     integrate_chatgpt_test.set_text_input(text_input)
 
